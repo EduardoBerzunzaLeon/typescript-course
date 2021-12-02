@@ -22,6 +22,6 @@
   const avengers: Avenger[] = [ironman, thor, captainAmerica];
 
   for (const avenger of avengers) {
-    // console.log(avenger.name, avenger.weapon);
+    console.log(avenger.name, avenger.weapon);
   }
 })();
